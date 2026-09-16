@@ -203,6 +203,17 @@ That's it. The middleware returns 402 with payment details, verifies the client'
 
 ---
 
+## Free Builder Templates
+
+- [x402 service readiness checklist](docs/free-x402-service-readiness-checklist.md)
+  - make your endpoint easy for agents and maintainers to buy from.
+- [PR description template](templates/pr-description-template.md) - submit a
+  complete listing without back-and-forth.
+- [Endpoint probe notes](templates/x402-endpoint-probe-notes.md) - record what
+  the unpaid and paid checks actually observed.
+
+---
+
 ## How x402 Works
 
 ```
